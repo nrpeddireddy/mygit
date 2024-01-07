@@ -1,0 +1,101 @@
+1This is the promblem statement given by infosys spring board....
+coming to project title ::
+infydataq - messy data to clean to data
+
+ *  Cleaning messy data means taking information that is jumbled, disorganized, or has errors and making it neat, organized, and error- 	free..
+
+ * By  cleaning data it  helps us analyze and understand the information more effectively.
+
+Coming to introduction:::
+
+ This is a web based data cleaning tool that allows user to import data from various sources like csv,excel,database and google sheets...
+
+This tool allows user to view the imported data in a clean and good looking format ,validate data ,mask sensitive information before viewing it into table.
+
+Additionally user can export or download the data in multiple formats like csv ,excel,pdf..
+
+This tool also includes features for measuring 
+						data quality 
+						including completeness
+						 consistency
+						 accuracy..
+
+
+
+
+Advantages of infydataq in transforming the messydata to clean data
+
+
+Data Accuracy: Cleaning messy data helps ensure that the information is correct and reliable, leading to more accurate analysis and decision-making.
+
+Better Insights: Once the data is clean, it becomes easier to find patterns and trends...
+
+Improved Efficiency: Clean data is organized and easy to work with, saving time and effort when performing tasks like reporting or data analysis.
+
+Enhanced Decision-making: With clean data, you can make informed decisions, as you have a clearer and more complete picture of the information.
+
+
+Increased Productivity: Teams can work more efficiently with clean data, focusing on important tasks rather than dealing with data inconsistencies.
+
+
+Confidence in Results: When the data is clean, you can trust the results of your analysis and confidently present findings to stakeholders.
+
+
+
+
+
+IN this we got 6 featuers to develop a complete project given by our team lead..
+
+
+1)import data from various sources
+2)view the imported data
+3) validate data
+4) mask sensitive data
+5) export the data
+6) measuer the quality metrices such as consistency,accuracy,completeness.
+
+
+in this project we are of 4 memeber team . after one week one my team mate had left from the project  after that we are of 3 memebers
+
+and we have 6 featuers to do a complete project .so we decided to split the features among us ..so we splited 2 features for one member.
+
+
+in our project we have scrum master and all tasks come from the scrum master for one week work  with one week we have to complete the work and report to the scrum master
+
+
+in this project my roles and responsilbites are::
+
+i had worked on  2 features like ::: import the data
+					masking senstive data
+
+and all the front end work had done by mee
+coming to back end i have worked with framework diajon
+
+and attending the scrum master metting and updating the work to the scrum master ...
+
+
+some of the issues i faced in this project is
+
+
+when the project is going on one my frnd had left the project at that time we faced issues  because  we have to complete the project with in given time   so after that we decided that we have work more than pervious.
+ while i am working with inport feature i had some issues like errors and i had resloved those eerors by connecting to ur scrum master or our project client  
+
+
+duration of this project is 5 monthsss 
+
+
+through the project we succesfully achived ..and we had complted with in the timee  
+
+
+
+
+
+
+
+
+
+
+
+
+
+

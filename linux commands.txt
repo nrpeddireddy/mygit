@@ -1,0 +1,40 @@
+To update : sudo apt(advanced package tool) update      or sudo yum update -y   yum: yellow dog update modifier
+To remove : sudo apt remove
+
+default to root user 
+
+ubuntu@ip-172-31-21-116:~$ sudo -i
+root@ip-172-31-21-116:~# ^C
+    
+   or
+
+  sudo su -
+
+
+$ > normal user
+
+# > root user
+
+
+sudo is used when we are in default user 
+
+when we are in root user we dont use sudo 
+
+
+
+to clear the screen we can user (crtl+l)
+
+
+hostname -i it will display the ip address
+
+uname it will display the linux information
+
+
+
+
+
+
+
+
+
+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
